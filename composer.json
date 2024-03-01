@@ -1,0 +1,17 @@
+{
+    "name": "draky/php-kata_fizz-buzz",
+    "autoload": {
+        "psr-4": {
+            "Draky\\PhpKataFizzBuzz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Desiree",
+            "email": "desireesanchezdev@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
+}
