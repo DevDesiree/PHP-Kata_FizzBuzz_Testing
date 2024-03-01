@@ -24,7 +24,7 @@ El proyecto está organizado de la siguiente manera:
     ```
 2. Descarga e instala Composer:
 
-    - Visita la web de descarga de Composer y sigue las instrucciones de instalación para tu sistema operativo.
+    - Visita [la web de descarga de Composer](https://getcomposer.org/download/) y sigue las instrucciones de instalación para tu sistema operativo.
 
 3. Instala las dependencias utilizando Composer:
 
